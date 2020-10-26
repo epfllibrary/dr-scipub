@@ -10,7 +10,7 @@ In this repository, you will *eventually* find:
 - Game instructions (instructions.md)
 - How-to prepare the game set (gamepreparation.md - *this is under construction*)
 - Ready-to-use files to print everything in one go (ready-to-use folder - *this is under construction*).
-- Slides used to explain the game and introduce theortical concepts (*to be uploaded*)
+- Slides used to explain the game and introduce theoretical concepts (*to be uploaded*)
 - Images that illustrate the game play (img folder)
 
 ## Learning Outcomes
